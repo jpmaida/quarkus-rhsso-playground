@@ -35,7 +35,8 @@ Once it's started, start the application. For that your current directory must b
 ```
 
 Access the application using: http://localhost:8080/hello
+Access the RHSSO's administrative console using: http://localhost:8180/auth/admin/
 
-In order to run the full playground is necessary to create a new realm, client id and user inside RHSSO's configurations. Use the link below:
+In order to run the full playground is necessary to perform some configurations inside RHSSO. Use the link below to get into details:
 
 https://developers.redhat.com/articles/2022/04/21/add-security-quarkus-application-using-red-hats-sso#
